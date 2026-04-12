@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0d1b4b"/>
+  <rect x="80" y="80" width="140" height="140" rx="20" fill="#06b6d4"/>
+  <rect x="240" y="80" width="140" height="140" rx="20" fill="#f97316"/>
+  <rect x="80" y="240" width="140" height="140" rx="20" fill="#a855f7"/>
+  <rect x="240" y="240" width="140" height="140" rx="20" fill="#22c55e"/>
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="52" fill="white" letter-spacing="4">BLOCK BLAST</text>
+</svg>

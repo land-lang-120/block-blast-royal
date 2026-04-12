@@ -1,0 +1,14 @@
+{
+  "name": "Block Blast Royal",
+  "short_name": "BBR",
+  "description": "Jeu puzzle de blocs arcade avec 3 modes de jeu",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1b4b",
+  "theme_color": "#0d1b4b",
+  "icons": [
+    { "src": "icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" },
+    { "src": "icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
